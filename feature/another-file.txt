@@ -3,3 +3,5 @@ Line was replaced in feature 3 branch
 This file was created in remote repository
 
 This line was added in feature 3 branch
+
+Another Change in feature3 branch
