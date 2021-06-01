@@ -1,1 +1,3 @@
 Another line from feature file
+
+This changes are made locally
