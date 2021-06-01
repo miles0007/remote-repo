@@ -1,2 +1,2 @@
 # remote-repo
-Edited Files Manually
+This file was edited manually during the merge conflicts
